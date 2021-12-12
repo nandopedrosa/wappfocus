@@ -1,2 +1,2 @@
 # WhatsApp Focus
-Chrome extension for a better and focused WhatsApp Web experience
+Chrome extension for a better and more focused WhatsApp Web experience
